@@ -33,7 +33,7 @@ Creating things that live on the internet is a passion. A passionate Developer ğ
 <div align="center">
 
 # ğŸŒ Socials:
-<a href="www.linkedin.com/in/apeksha-masodkar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" /></a>
+<a href="https://www.linkedin.com/in/apeksha-masodkar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" /></a>
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
