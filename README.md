@@ -2,7 +2,7 @@
 ![WhatsApp Image 2024-08-08 at 12 29 48 PM](https://github.com/user-attachments/assets/8d0a5977-b520-4424-941d-c0dc9dc7254a)
 
 
-
+<a href="https://www.linkedin.com/in/apeksha-masodkar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" /></a>
 
 <h1 align="center">Hi 👋, I'm Apeksha Masodkar</h1>
 <h3 align="center">A passionate full stack web developer</h3>
